@@ -5,3 +5,4 @@
   5.编写 GetphotoPath.py 程序，以操作界面的形式选择要识别的人脸图片
   6.利用python3 自带的 tkinter 库显示图片（注意这块在运行的时候可能报错，显示没有PIL库，此时只要安装PIL库就可以了，安装命令为 sudo pip3 install Pillow）
   7.运行 recognition.sh 这个shell文件，就可以实现人脸识别的功能了。
+  8.再试试
